@@ -8,7 +8,7 @@ This pipeline requires a 64-bit Linux system and python (supported versions are 
 
 Download the pipeline via Git:
 ```bash
-git clone brf_ont_plasmid_asm
+git clone brf_ont_bac_isolate
 ```
 
 External dependencies:
